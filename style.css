@@ -1,0 +1,23 @@
+#first
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 20px 10px 20px;
+    font-size: 1.3rem;
+    font-family: 'time square';
+}
+#vs{
+    display: flex;
+}
+.container1{
+    display: flex;
+}
+.container-sub
+{
+    display: flex;
+}
+#last
+{
+    display: flex;
+    justify-content: space-evenly;
+}
