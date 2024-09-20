@@ -1,0 +1,47 @@
+#first
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 20px 10px 20px;
+    font-size: 1.3rem;
+    font-family: 'time square';
+}
+#vs{
+    display: flex;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+}
+.container-sub
+{
+    display: flex;
+}
+#last
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+button
+{
+    cursor: pointer;
+    padding: 20px 20px;
+    border: 1px;
+    background: rgb(15, 180, 202);
+    border-radius: 6px;
+    font: 600 22px rgb(13, 172, 85);
+    box-shadow: 0 6px rgb(34, 118, 228);
+    transition: .3s;
+}
+button:hover{
+    color: blueviolet;
+    background: limegreen;
+    transition-duration: 4s;
+
+}
+button:active
+{
+    color: red;
+    background: yellow;
+    transition-duration: 0s;
+}
